@@ -71,7 +71,7 @@
 
 
 <div class="footer">
-Copyright &copy; ihahn
+Copyright &copy; <?php echo date("Y");?> ihahn
 </div>
 
 </body>
